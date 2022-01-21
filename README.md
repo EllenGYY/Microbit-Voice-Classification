@@ -27,5 +27,9 @@
     - 6 speakers
     - 3,000 recordings (50 of each digit per speaker)
     - English pronunciations
-    
-    
+
+- Voice classification (C++):
+  - https://github.com/edgeimpulse/voice-activated-microbit
+
+- Basic Tools:
+  - https://github.com/christineiym/microbit-sandbox
