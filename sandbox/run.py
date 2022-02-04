@@ -1,7 +1,7 @@
 """File to run a python script on a microbit device from the command line.
 
 Run on the command line by doing the following:
-1) Navigate to the root directory of this projecton the command line.
+1) Navigate to the sandbox directory of this project on the command line.
 2) Enter `python -m run`.
 """
 
