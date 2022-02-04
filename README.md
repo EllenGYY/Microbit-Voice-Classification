@@ -31,5 +31,5 @@
 - Voice classification (C++):
   - https://github.com/edgeimpulse/voice-activated-microbit
 
-- Basic Tools:
+- Basic Tools (edit: now in `sandbox` folder):
   - https://github.com/christineiym/microbit-sandbox
