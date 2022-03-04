@@ -6,3 +6,5 @@
 3. change the name of the serial port and the directory and filename for the output file to fit your device
 4. run the python file, keypress 's' to start recording, 'q' to stop recording, and the WAV file will be saved to the directory you named
    - there is an example WAV file in this folder as well
+
+Alternatively, launch the GUI application in the application folder by following the instructions in the docstring of `ui.py`.
