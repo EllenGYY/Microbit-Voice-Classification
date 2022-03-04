@@ -2,7 +2,7 @@
 
 ### 1. Setup
 
-- Pip requirements (updated March 4, 2022):
+- Python package requirements (updated March 4, 2022):
   - Installation: `pip install -r requirements.txt`
   - Write file: `pip freeze > requirements.txt`
   - May need to use pip3 in place of pip for commands to work, or alternatively use conda
