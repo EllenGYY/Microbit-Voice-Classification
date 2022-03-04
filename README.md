@@ -3,6 +3,7 @@
 ### 1. Setup
 
 - Python package requirements (updated March 4, 2022):
+  - **WARNING**: you might get a lot of extra, unneccessary packages due to the file not being generated in a dedicated virtual environment. The requirements.txt file will be updated to only include necessary packages shortly.
   - Installation: `pip install -r requirements.txt`
   - Write file: `pip freeze > requirements.txt`
   - May need to use pip3 in place of pip for commands to work, or alternatively use conda
