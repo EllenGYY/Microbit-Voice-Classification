@@ -8,7 +8,7 @@ import numpy as np
 
 
 EMPTY: str = ""
-PORT_NAME: str = '/dev/tty.usbmodem1102'  # On MacOS, find your serial port by running `ls /dev/tty.*`
+PORT_NAME: str = '/dev/tty.usbmodem102'  # On MacOS, find your serial port by running `ls /dev/tty.*`
 OUT_FOLDER: str = os.path.join(os.getcwd(), 'output', 'christine', 'test')
 OUT_FILE_NAME: str = 'out_'
 OUT_FILE_EXTENSION: str = '.wav'
