@@ -2,6 +2,10 @@
 
 ### 1. Setup
 
+- Pip requirements (updated March 4, 2022):
+  - Installation: `pip install -r requirements.txt`
+  - Write file: `pip freeze > requirements.txt`
+  - May need to use pip3 in place of pip for commands to work, or alternatively use conda
 - Basic Hardware Information:
   - [Micro::bit](https://microbit.org/) V2 Specs: Arm Cortex-M4, RAM 128KB, Flash 512KB
   - Build-in microphone sensor (More details in [notes](Docs/notes.md))
