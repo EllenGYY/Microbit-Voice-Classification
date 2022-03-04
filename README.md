@@ -3,9 +3,9 @@
 ### 1. Setup
 
 - Python package requirements (updated March 4, 2022):
-  - **WARNING**: you might get a lot of extra, unneccessary packages due to the file not being generated in a dedicated virtual environment. The requirements.txt file will be updated to only include necessary packages shortly.
   - Installation: `pip install -r requirements.txt`
   - Write file: `pip freeze > requirements.txt`
+    - This should be done in a venv to avoid adding unnecessary packages
   - May need to use pip3 in place of pip for commands to work, or alternatively use conda
 - Basic Hardware Information:
   - [Micro::bit](https://microbit.org/) V2 Specs: Arm Cortex-M4, RAM 128KB, Flash 512KB

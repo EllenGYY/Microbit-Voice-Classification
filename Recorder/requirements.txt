@@ -11,14 +11,11 @@ joblib==1.1.0
 keyboard==0.13.5
 librosa==0.9.1
 llvmlite==0.38.0
-microfs==1.4.5
 numba==0.55.1
 numpy==1.22.2
 packaging==21.3
 pooch==1.6.0
-pseudo-microbit==1.10
 pycparser==2.21
-pyminifier==2.1
 pyobjc==8.3
 pyobjc-core==8.3
 pyobjc-framework-Accessibility==8.3
@@ -151,7 +148,6 @@ pyobjc-framework-Virtualization==8.3
 pyobjc-framework-Vision==8.3
 pyobjc-framework-WebKit==8.3
 pyparsing==3.0.7
-pyserial==3.5
 PyYAML==6.0
 requests==2.27.1
 resampy==0.2.2
@@ -161,5 +157,4 @@ serial==0.0.97
 six==1.16.0
 SoundFile==0.10.3.post1
 threadpoolctl==3.1.0
-uflash==2.0.0
 urllib3==1.26.8
