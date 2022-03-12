@@ -32,12 +32,12 @@ while True:
         break
 ser.close()
 
-chunks, chunk_size = len(result), 2
-data = np.asarray([ twos_complement(result[i : i + chunk_size], 8) + 127 for i in range(0, chunks, chunk_size) ])
+chunks, chunk_size = len(result), 4
+data = np.asarray([ twos_complement(result[i : i + chunk_size], 16) for i in range(0, chunks, chunk_size) ])
 fs = 11000
-
-wavf.write(out_f, fs, data.astype(np.uint8))
+print(data.size)
+wavf.write(out_f, fs, data.astype(np.int16))
 song, fs = librosa.load(out_f)
-wavf.write(out_f, fs, librosa.effects.time_stretch(song, rate = 0.5))
+wavf.write(out_f, fs, librosa.effects.time_stretch(song, rate = 0.382))
 
 print("Output to " + out_f)

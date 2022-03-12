@@ -32,7 +32,7 @@
       - Some References:
         - [Official Example on the Microphone](https://github.com/lancaster-university/microbit-v2-samples/blob/master/source/samples/MicrophoneTest.cpp)
         - [An audio recorder done in V1](https://github.com/we-eff/RecordSavePlayAudioData)
-      
+  
 - Voice Classification:
   - Some References:
     - [Tensorflow Lite Micro](https://github.com/tensorflow/tflite-micro)
@@ -42,7 +42,8 @@
     - [Edge Impulse Voice Activated Microbit](https://github.com/edgeimpulse/voice-activated-microbit)
       - Currently the most promising one
       - More details for setup in [steps](Docs/steps.md) or see the original post
-
+      - local build demo: [Video](Assets/EdgeImpulseLocalBuildDemo.mp4)
+      
     - [Yumium Microbit ML](https://github.com/yumium/microbit-ML)
       - the basic is similar to the Edge Impulse one, but they encapsulate their code into a micro-python library
       - Probably because they want to use this as a teaching method, but this is not necessary for us
