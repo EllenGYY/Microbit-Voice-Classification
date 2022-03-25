@@ -1,12 +1,10 @@
 """Utility functions for recording from a Microbit."""
 
 
-from curses import baudrate
 import os, threading, time
 import serial, binascii, librosa
 import scipy.io.wavfile as wavf
 import numpy as np
-import microbit
 
 
 EMPTY: str = ""
@@ -38,13 +36,12 @@ def record():
     global result
     global stop_flag
 
-    bytesToRead = ser.inWaiting()
-    # while not stop_flag:
-    #     bytesToRead = ser.inWaiting()
-    #     if bytesToRead > 0:
-    #         result += binascii.hexlify(bytearray(ser.read(bytesToRead))).decode('ascii')
+    while not stop_flag:
+        bytesToRead = ser.inWaiting()
+        if bytesToRead > 0:
+            result += binascii.hexlify(bytearray(ser.read(bytesToRead))).decode('ascii')
         
-    #     time.sleep(0.2)
+        time.sleep(0.2)
 record_thread = threading.Thread(target=record)
 
 
@@ -54,7 +51,6 @@ def start():
     global record_thread
 
     print("Recording...")
-    microbit.uart.init(baudrate=9600)
     record_thread.start()
 
 
@@ -83,11 +79,7 @@ def write_to_file():
     global result
     global num_results
 
-    data = np.asarray(microbit.uart.read())
-    # Notes (https://microbit-micropython.readthedocs.io/en/v2-docs/uart.html):
-    # The timeout for all UART reads depends on the baudrate and is otherwise not changeable via Python. 
-    # The timeout, in milliseconds, is given by: microbit_uart_timeout_char = 13000 / baudrate + 1
-    # The internal UART RX buffer is 64 bytes, so make sure data is read before the buffer is full or some of the data might be lost.
+    data = np.asarray([ twos_complement(result[i : i + CHUNK_SIZE]) + CONSTANT for i in range(RESULT_START, len(result), CHUNK_SIZE) ])
     print(data)
     fs = RECORDING_HERTZ
 
