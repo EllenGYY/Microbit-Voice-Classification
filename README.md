@@ -32,6 +32,8 @@
       - Some References:
         - [Official Example on the Microphone](https://github.com/lancaster-university/microbit-v2-samples/blob/master/source/samples/MicrophoneTest.cpp)
         - [An audio recorder done in V1](https://github.com/we-eff/RecordSavePlayAudioData)
+      - Interface w/ python:
+        - ![](./Assets/Snipaste_2022-04-01_08-44-00.png)
   
 - Voice Classification:
   - Some References:

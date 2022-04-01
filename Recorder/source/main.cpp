@@ -19,7 +19,7 @@ void stream_mic()
     mic->output.setBlocking(true);
 
     if (processor == NULL)
-        processor = new StreamNormalizer(mic->output, 0.05f, true, DATASTREAM_FORMAT_8BIT_SIGNED);
+        processor = new StreamNormalizer(mic->output, 1f, true, DATASTREAM_FORMAT_8BIT_SIGNED);
 
     if (streamer == NULL)
         streamer = new AudioStreamer(processor->output);
