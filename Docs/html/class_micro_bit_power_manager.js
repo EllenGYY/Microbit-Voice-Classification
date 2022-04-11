@@ -1,0 +1,28 @@
+var class_micro_bit_power_manager =
+[
+    [ "MicroBitPowerManager", "class_micro_bit_power_manager.html#aba91f0f4823aaad83aa94339464e91e4", null ],
+    [ "~MicroBitPowerManager", "class_micro_bit_power_manager.html#af7631fcaed5a75822cc04c76090043ab", null ],
+    [ "awaitingPacket", "class_micro_bit_power_manager.html#a5ad0a83dc5cdbc66c8ba0be83595a656", null ],
+    [ "awaitUIPMPacket", "class_micro_bit_power_manager.html#ab0b0ad8eeae97d25e21334bf49f4391b", null ],
+    [ "cancelDeepSleep", "class_micro_bit_power_manager.html#abc552ef5b7acfb92f0cd5a8aeeeb66b4", null ],
+    [ "deepSleep", "class_micro_bit_power_manager.html#a2eb4e624320c1b3c252863a2f3ed56a4", null ],
+    [ "deepSleep", "class_micro_bit_power_manager.html#a7ab7937e8790ba8b071bb749a439b887", null ],
+    [ "deepSleepAsync", "class_micro_bit_power_manager.html#ad885adf902acaf48702e8db1ff662c89", null ],
+    [ "getPowerConsumption", "class_micro_bit_power_manager.html#a6ffb1c585fd98a03cc935f6861d57138", null ],
+    [ "getPowerSource", "class_micro_bit_power_manager.html#a7958eea2b2ad8898d37f2e3279c8b786", null ],
+    [ "getUSBStatus", "class_micro_bit_power_manager.html#a87cb9a395839397f324b82a150ed3bd9", null ],
+    [ "getVersion", "class_micro_bit_power_manager.html#a5913b2350f3cf2d0d8c86ce4df70388f", null ],
+    [ "idleCallback", "class_micro_bit_power_manager.html#a011ffdc72a1fe3208bbce4e4a0e8d951", null ],
+    [ "nop", "class_micro_bit_power_manager.html#a4c923688b0640fed1e698694fa99ce54", null ],
+    [ "off", "class_micro_bit_power_manager.html#a46da79f623174c038f6b8bd1877c90fc", null ],
+    [ "powerDownDisable", "class_micro_bit_power_manager.html#a933eb99a07dfc5e9da41ed6f5c71adde", null ],
+    [ "powerDownEnable", "class_micro_bit_power_manager.html#a7dde03e71b6c1b4c7af947c63482f3a1", null ],
+    [ "powerDownIsEnabled", "class_micro_bit_power_manager.html#a4061d7d8e2181565744921eaaa8b542c", null ],
+    [ "readProperty", "class_micro_bit_power_manager.html#ac5144990fe4446cd9cf84c347589aa30", null ],
+    [ "readyForDeepSleep", "class_micro_bit_power_manager.html#a7cffd953c8d8b3cdd76efc5208b18467", null ],
+    [ "recvUIPMPacket", "class_micro_bit_power_manager.html#a9a7344140cc846bcb7f87df77e102ea4", null ],
+    [ "sendUIPMPacket", "class_micro_bit_power_manager.html#a6d0f7db040ab842c2ddaf0806f362865", null ],
+    [ "startDeepSleep", "class_micro_bit_power_manager.html#a73d0286be4ba071fd531ab964b4953f6", null ],
+    [ "waitingForDeepSleep", "class_micro_bit_power_manager.html#a94d6d674babe6d6b526384aa14855ca4", null ],
+    [ "writeProperty", "class_micro_bit_power_manager.html#a352bfe73a68e030d8e20c2f3aef40dce", null ]
+];

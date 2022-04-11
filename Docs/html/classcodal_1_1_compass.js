@@ -1,0 +1,25 @@
+var classcodal_1_1_compass =
+[
+    [ "Compass", "classcodal_1_1_compass.html#a53e6a2c4b8b6b093b7ce976e7dfd12fb", null ],
+    [ "Compass", "classcodal_1_1_compass.html#ade2c7fc705b8e99e2907cc7278e22452", null ],
+    [ "~Compass", "classcodal_1_1_compass.html#a26c27c9b7bba5b3107f1c671bd6f31c9", null ],
+    [ "calibrate", "classcodal_1_1_compass.html#a04e64dc9d5951d7d4dea8d2052217c74", null ],
+    [ "clearCalibration", "classcodal_1_1_compass.html#a0a1ec5e4e11f05f637c320f77a1414d6", null ],
+    [ "configure", "classcodal_1_1_compass.html#a23535fe81e1e9da3f0f62b64e3512a26", null ],
+    [ "getCalibration", "classcodal_1_1_compass.html#ae8189304a0a24df6cb159f12fc5a469e", null ],
+    [ "getFieldStrength", "classcodal_1_1_compass.html#ad9551e4c8080c98be9149615db82be85", null ],
+    [ "getPeriod", "classcodal_1_1_compass.html#a266d53f4bd99d5d48ae1adc1eb7a5ecb", null ],
+    [ "getSample", "classcodal_1_1_compass.html#a8a451745f45984eecc68a9d492aa8415", null ],
+    [ "getSample", "classcodal_1_1_compass.html#a163f6f166325b80cc24354b066ad62ce", null ],
+    [ "getX", "classcodal_1_1_compass.html#a55872364860bd240bd8ddb277a1bccbe", null ],
+    [ "getY", "classcodal_1_1_compass.html#a279d50fb382721e8fb67b9c167a354a8", null ],
+    [ "getZ", "classcodal_1_1_compass.html#ac0101f10a7737376e8d703198e7cc1db", null ],
+    [ "heading", "classcodal_1_1_compass.html#a44dcaea70762a45342c2d356999ed9e2", null ],
+    [ "isCalibrated", "classcodal_1_1_compass.html#abda5a9f893407b1e1242144d0048b7f9", null ],
+    [ "isCalibrating", "classcodal_1_1_compass.html#ab6ba6dc2ad46f8eb68e8c76f75a64e11", null ],
+    [ "requestUpdate", "classcodal_1_1_compass.html#a96822c17a4a9f4ed0bf6c94620f07320", null ],
+    [ "setAccelerometer", "classcodal_1_1_compass.html#a7dcf21a7dbbf621283802578d8748422", null ],
+    [ "setCalibration", "classcodal_1_1_compass.html#af6888e264f2399e73790c4370a81781c", null ],
+    [ "setPeriod", "classcodal_1_1_compass.html#a9423150ebac663dbc30e202d3205ecc7", null ],
+    [ "update", "classcodal_1_1_compass.html#afd3f7e13db34d9bd7f168e6acbffe536", null ]
+];

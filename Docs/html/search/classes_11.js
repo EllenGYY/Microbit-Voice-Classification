@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['sample3d_0',['Sample3D',['../structcodal_1_1_sample3_d.html',1,'codal']]],
+  ['screenio_1',['ScreenIO',['../classcodal_1_1_screen_i_o.html',1,'codal']]],
+  ['sensor_2',['Sensor',['../classcodal_1_1_sensor.html',1,'codal']]],
+  ['serial_3',['Serial',['../classcodal_1_1_serial.html',1,'codal']]],
+  ['shakehistory_4',['ShakeHistory',['../structcodal_1_1_shake_history.html',1,'codal']]],
+  ['singlewireserial_5',['SingleWireSerial',['../classcodal_1_1_single_wire_serial.html',1,'codal']]],
+  ['soundeffect_6',['SoundEffect',['../structcodal_1_1_sound_effect.html',1,'codal']]],
+  ['soundemojisynthesizer_7',['SoundEmojiSynthesizer',['../classcodal_1_1_sound_emoji_synthesizer.html',1,'codal']]],
+  ['soundexpressions_8',['SoundExpressions',['../classcodal_1_1_sound_expressions.html',1,'codal']]],
+  ['soundoutputpin_9',['SoundOutputPin',['../classcodal_1_1_sound_output_pin.html',1,'codal']]],
+  ['soundsynthesizereffects_10',['SoundSynthesizerEffects',['../classcodal_1_1_sound_synthesizer_effects.html',1,'codal']]],
+  ['spi_11',['SPI',['../classcodal_1_1_s_p_i.html',1,'codal']]],
+  ['spiflash_12',['SPIFlash',['../classcodal_1_1_s_p_i_flash.html',1,'codal']]],
+  ['spiscreenio_13',['SPIScreenIO',['../classcodal_1_1_s_p_i_screen_i_o.html',1,'codal']]],
+  ['st7735_14',['ST7735',['../classcodal_1_1_s_t7735.html',1,'codal']]],
+  ['st7735workbuffer_15',['ST7735WorkBuffer',['../structcodal_1_1_s_t7735_work_buffer.html',1,'codal']]],
+  ['standardspiflash_16',['StandardSPIFlash',['../classcodal_1_1_standard_s_p_i_flash.html',1,'codal']]],
+  ['streamnormalizer_17',['StreamNormalizer',['../classcodal_1_1_stream_normalizer.html',1,'codal']]],
+  ['stringdata_18',['StringData',['../structcodal_1_1_string_data.html',1,'codal']]],
+  ['synthesizer_19',['Synthesizer',['../classcodal_1_1_synthesizer.html',1,'codal']]]
+];

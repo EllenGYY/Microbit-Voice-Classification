@@ -1,0 +1,25 @@
+var class_micro_bit_compass =
+[
+    [ "MicroBitCompass", "class_micro_bit_compass.html#acf394a4e5dca111af435af753a6f766c", null ],
+    [ "~MicroBitCompass", "class_micro_bit_compass.html#a69d30461ae1a3f27cd9547ab7d00bc58", null ],
+    [ "calibrate", "class_micro_bit_compass.html#a77a43907dc801350ae0bee576d3b16d3", null ],
+    [ "clearCalibration", "class_micro_bit_compass.html#a3065bbdf9a95d5d2b11ec1f2a102c97a", null ],
+    [ "configure", "class_micro_bit_compass.html#aac359a35c0c032e5dae9fcef564068e7", null ],
+    [ "getCalibration", "class_micro_bit_compass.html#a04c5c9a0b4e280f914126c17d4ddd440", null ],
+    [ "getFieldStrength", "class_micro_bit_compass.html#aa11d14cca5e367f6867eaad6d3441996", null ],
+    [ "getPeriod", "class_micro_bit_compass.html#a796c2501e347798d5b040060ced56c7d", null ],
+    [ "getSample", "class_micro_bit_compass.html#a87baf67970d0fbdbeddb5bd704c0f12d", null ],
+    [ "getSample", "class_micro_bit_compass.html#a273fd6570ab5f26f9446adbf8557ca24", null ],
+    [ "getX", "class_micro_bit_compass.html#a3d0b94022adc7dd14a6a3b5f89d581fd", null ],
+    [ "getY", "class_micro_bit_compass.html#a517c5d6f4009e953f9463f4b9a9f454a", null ],
+    [ "getZ", "class_micro_bit_compass.html#a7485c3639f78fcde48d1191c53af3543", null ],
+    [ "heading", "class_micro_bit_compass.html#a7f6e1308d385194e71eec106c13692db", null ],
+    [ "isCalibrated", "class_micro_bit_compass.html#abdd0ebaa28dade9120a613a36ca6253a", null ],
+    [ "isCalibrating", "class_micro_bit_compass.html#a8bc75ab423e7d2772d712903a29b9f63", null ],
+    [ "requestUpdate", "class_micro_bit_compass.html#a39db284f33d98eb2e6d314fc8aa81def", null ],
+    [ "setAccelerometer", "class_micro_bit_compass.html#a45272860d6b4127cceff5472b9a58bb4", null ],
+    [ "setCalibration", "class_micro_bit_compass.html#afb56a1ff9a358d08ca0fd47e7bf15f6f", null ],
+    [ "setPeriod", "class_micro_bit_compass.html#a6396b534dc2caf5bdd91f49e99f645c8", null ],
+    [ "update", "class_micro_bit_compass.html#a2b49322a307e507f7dc8b2a308ef0b5a", null ],
+    [ "updateSample", "class_micro_bit_compass.html#a2faa167fef94ea6fcef8dfceb78ce0a1", null ]
+];

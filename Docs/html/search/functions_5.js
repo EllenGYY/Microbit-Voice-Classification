@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['fiber_5fscheduler_5fget_5fdeepsleep_5fpending_0',['fiber_scheduler_get_deepsleep_pending',['../namespacecodal.html#a3f314eb211d045b62fcca8829165362c',1,'codal']]],
+  ['fiber_5fscheduler_5frunning_1',['fiber_scheduler_running',['../namespacecodal.html#a356720646ed8ec0b5d1392503120dcfd',1,'codal']]],
+  ['fiber_5fscheduler_5fset_5fdeepsleep_5fpending_2',['fiber_scheduler_set_deepsleep_pending',['../namespacecodal.html#a2c2f8c0437504989b14ab55fc57c6171',1,'codal']]],
+  ['fiber_5fsleep_3',['fiber_sleep',['../namespacecodal.html#a4c0f8ade68592c64d500ee576f7c9a76',1,'codal']]],
+  ['fiber_5fwait_5ffor_5fevent_4',['fiber_wait_for_event',['../namespacecodal.html#a5bc6ae64f3b21bc1deb9cc73479022dc',1,'codal']]],
+  ['fiber_5fwake_5fon_5fevent_5',['fiber_wake_on_event',['../namespacecodal.html#a0e114ae9b9f557fab7b484053a115298',1,'codal']]],
+  ['fiberlock_6',['FiberLock',['../classcodal_1_1_fiber_lock.html#a8bb0d2db5344870e1d21418c0f5925bb',1,'codal::FiberLock']]],
+  ['findhashes_7',['findHashes',['../class_micro_bit_memory_map.html#a02eff13f0912da89167b0d068bf01e23',1,'MicroBitMemoryMap']]],
+  ['fire_8',['fire',['../classcodal_1_1_member_function_callback.html#a3077e9a22479b3ca56dc213eac5c2e03',1,'codal::MemberFunctionCallback::fire()'],['../classcodal_1_1_event.html#a5512e41b535a7b21256f534a84ba42cd',1,'codal::Event::fire()'],['../classcodal_1_1_mbed_member_function_callback.html#ab06d60d71629ef6e7f12cef2c61b9520',1,'codal::MbedMemberFunctionCallback::fire()']]],
+  ['flash_5fburn_9',['flash_burn',['../class_micro_bit_flash.html#a8e4fd77924ea05b3c63e7d7283d1d8a8',1,'MicroBitFlash']]],
+  ['flash_5fwrite_10',['flash_write',['../class_micro_bit_flash.html#a34865ffa6d78f28ca7e8e5b94721f51a',1,'MicroBitFlash']]],
+  ['flush_11',['flush',['../class_micro_bit_file.html#a4656aff522b0e80101fc7ebb8e31d115',1,'MicroBitFile::flush()'],['../class_micro_bit_file_system.html#a730330ff013ea29087c30493f7969f24',1,'MicroBitFileSystem::flush()']]],
+  ['frequencyvibratoeffect_12',['frequencyVibratoEffect',['../classcodal_1_1_sound_synthesizer_effects.html#a4d8125083dc18b1dae4d752e9c165c5e',1,'codal::SoundSynthesizerEffects']]],
+  ['fscache_13',['FSCache',['../classcodal_1_1_f_s_cache.html#a2b36065058bd3edeaa039bf2b5b2791d',1,'codal::FSCache']]],
+  ['full_14',['full',['../classcodal_1_1_data_stream.html#ac125276943934a8d2cfff6ea1cfacb2c',1,'codal::DataStream']]],
+  ['fxos8700_15',['FXOS8700',['../classcodal_1_1_f_x_o_s8700.html#a73dc8c4d71d398fc7a14ffc860600c60',1,'codal::FXOS8700']]]
+];
